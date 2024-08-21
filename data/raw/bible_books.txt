@@ -1,0 +1,66 @@
+Księga Rodzaju
+Księga Ezdrasza
+Księga Ozeasza
+Księga Wyjścia
+Księga Nehemiasza
+Księga Joela
+Księga Kapłańska
+Księga Estery
+Księga Amosa
+Księga Liczb
+Księga Hioba
+Księga Abdiasza
+Księga Powtórzonego Prawa
+Księga Psalmów
+Księga Jonasza
+Księga Jozuego
+Księga Przypowieści Salomona
+Księga Micheasza
+Księga Sędziów
+Księga Kaznodziei Salomona
+Księga Nahuma
+Księga Rut
+Pieśń nad Pieśniami
+Księga Habakuka
+1 Księga Samuela
+Księga Sofoniasza
+2 Księga Samuela
+Księga Izajasza
+Księga Aggeusza
+1 Księga Królewska
+Księga Jeremiasza
+Księga Zachariasza
+2 Księga Królewska
+Treny Jeremiasza
+Księga Malachiasza
+1 Księga Kronik
+Księga Ezechiela
+2 Księga Kronik
+Księga Daniela
+Ewangelia Mateusza
+List do Galacjan
+List do Hebrajczyków
+Ewangelia Marka
+List do Efezjan
+List Jakuba
+Ewangelia Łukasza
+List do Filipian
+1 List Piotra
+Ewangelia Jana
+List do Kolosan
+2 List Piotra
+1 List do Tesaloniczan
+1 List Jana
+Dzieje Apostolskie
+2 List do Tesaloniczan
+2 List Jana
+1 List do Tymoteusza
+3 List Jana
+List do Rzymian
+2 List do Tymoteusza
+List Judy
+1 List do Koryntian
+List do Tytusa
+2 List do Koryntian
+List do Filemona
+Objawienie Jana
